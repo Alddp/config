@@ -1,0 +1,33 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	37
+#@/user_id	7efed416-5027-4e21-a148-17e4f0bcc994
+an zhuang 	安装	c=2 d=1.83705 t=37
+cha jian 	插件	c=2 d=1.88839 t=37
+de 	的	c=1 d=0.927743 t=37
+gong ju 	工具	c=2 d=1.98012 t=37
+hai xiang 	还想	c=1 d=0.909373 t=37
+huan jing 	环境	c=1 d=0.882497 t=37
+ji huo 	激活	c=2 d=1.99005 t=37
+ji suan 	计算	c=1 d=0.873716 t=37
+le 	了	c=1 d=0.951229 t=37
+lian jie 	链接	c=1 d=0.965605 t=37
+mi yao 	密钥	c=1 d=1 t=37
+na li 	哪里	c=1 d=0.946485 t=37
+na li 	那里	c=1 d=0.941765 t=37
+ne 	呢	c=1 d=1 t=34
+ni hui 	你会	c=1 d=0.865022 t=37
+pao dao 	跑到	c=1 d=0.937067 t=37
+pei zhi 	配置	c=3 d=2.75373 t=37
+po jie 	破解	c=1 d=0.980199 t=37
+ru he 	如何	c=3 d=2.71149 t=37
+she zhi 	设置	c=1 d=1 t=31
+sheng cheng 	生成	c=1 d=1 t=36
+shi yong 	使用	c=1 d=0.918512 t=37
+shu ru 	输入	c=1 d=0.891366 t=37
+wo 	我	c=1 d=0.904837 t=37
+yong hu ming 	用户名	c=1 d=1 t=32
+you xiang 	邮箱	c=1 d=1 t=33
+zen me 	怎么	c=3 d=2.8006 t=37
